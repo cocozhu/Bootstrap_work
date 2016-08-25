@@ -1,0 +1,122 @@
+.page{
+    background-color: #c8c8c8;
+    max-width: 1260px;
+    margin: 0 auto;
+}
+
+
+.navbar-default {
+    background-color: #c8c8c8 !important;
+    border-color: #c8c8c8 !important;
+}
+
+.nav>li>a:hover{
+    text-decoration: underline;
+}
+.nav>li>a:active{
+    text-decoration: underline;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.main{
+    padding: 20px 0;
+}
+
+.filter{
+    display: inline-block;
+}
+
+.my-label{
+    display: inline-block;
+    border-radius: .65em;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 5px;
+
+}
+
+
+.home-products-4col{
+    padding-bottom: 1.5rem;
+    max-width:1260px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.graphic{
+    display: block;
+    overflow: hidden;
+
+
+}
+.img-width{
+    width: 100%;
+}
+
+.checkbox label input{
+    vertical-align: middle;
+    //width: 80%;
+    background-color: #FFFFFF;
+}
+.filter em{
+    margin-right: 0.5rem;
+    font-style: normal;
+}
+.thumbnail{
+    border-radius: 0px;
+    padding: 0px;
+    border:0px;
+}
+.product-text{
+    word-break:keep-all;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    padding-bottom: 5px;
+
+}
+.product-text-box{
+    background-color: #FFFFFF;
+    padding: 1em;
+
+}
+
+.products-box{
+    margin-left: 0;
+}
+
+.product-name span{
+    float: right;
+}
+
+
+.readmore{
+    display: block;
+    margin-top: 1em;
+}
+
+.readmore em{
+    color: #333;
+    font-style: normal;
+}
+.color-gemuese{
+    color: #5cb85c;
+}
+
+.color-fleisch{
+    color: #d9534f;
+}
+.color-obst{
+    color:#f0ad4e;
+}
+
+.obst, .gemuese, .fleisch {
+    padding-top: 10px;
+}
+
+
+/* .row div[class|=col-lg]{padding-top: 15px}  */
